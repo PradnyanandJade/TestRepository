@@ -2,3 +2,5 @@ Hello
 
 ============
 Feature a added by user1
+============
+Feature b added by user2
